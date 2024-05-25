@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["get_amount_mobs","get_level","get_mob","main"],"struct":["Mob"]};
