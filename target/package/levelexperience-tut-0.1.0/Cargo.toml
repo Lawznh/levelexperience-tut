@@ -13,6 +13,8 @@
 edition = "2021"
 name = "levelexperience-tut"
 version = "0.1.0"
+description = "A simple library to create level concepts."
 readme = "README.md"
+license = "MIT"
 
 [dependencies]
