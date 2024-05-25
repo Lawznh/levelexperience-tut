@@ -1,0 +1,1 @@
+C:\Users\Lawnus\Desktop\Mesa-1\Rustlang\levelexperience-tut\target\package\levelexperience-tut-0.1.0\target\debug\levelexperience-tut.exe: C:\Users\Lawnus\Desktop\Mesa-1\Rustlang\levelexperience-tut\target\package\levelexperience-tut-0.1.0\src\main.rs
